@@ -1,6 +1,8 @@
 import React from "react";
 import logo from "../../assets/logo.png"
 import { Link } from "react-router";
+import { NavLink } from "react-router-dom";
+
 
 
 const Navbar = ()  => {
@@ -21,17 +23,47 @@ const Navbar = ()  => {
        <Link to='/Installation'> <li>Installation</li></Link>
       </ul>
     </div>
-       <Link to='/'>
+      
+        <Link to='/' className="flex items-center gap-2">
      <img src={logo} alt=""  style={{ width: "40px", height: "40px" }} />
     <h1 className=" text-purple-600 font-bold text-xl">HERO.IO</h1>
     </Link>
+       
   </div>
   <div className="navbar-center hidden lg:flex ">
     <ul className="menu menu-horizontal gap-4 px-1">
-     <Link to='/'> <li>Home</li></Link>
-     <Link to='/Apps'> <li>Apps</li></Link>
-       <Link to='/Installation'> <li>Installation</li></Link>
-    </ul>
+  <li>
+    <NavLink
+      to="/"
+      className={({ isActive }) =>
+        isActive ? "text-purple-600 font-bold" : "text-gray-600"
+      }
+    >
+      Home
+    </NavLink>
+  </li>
+  <li>
+    <NavLink
+      to="/apps"
+      className={({ isActive }) =>
+        isActive ? "text-purple-600 font-bold" : "text-gray-600"
+      }
+    >
+      Apps
+    </NavLink>
+  </li>
+  <li>
+    <NavLink
+      to="/installation"
+      className={({ isActive }) =>
+        isActive ? "text-purple-600 font-bold" : "text-gray-600"
+      }
+    >
+      Installation
+    </NavLink>
+  </li>
+</ul>
+
   </div>
   
    <div className=" navbar-end ">
