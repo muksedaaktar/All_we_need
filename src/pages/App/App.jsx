@@ -1,4 +1,4 @@
-import React, { use } from "react";
+import React from "react";
 import { IoMdStar } from "react-icons/io";
 import { FiDownload } from "react-icons/fi";
 import { Link } from "react-router";
@@ -9,7 +9,7 @@ const App = ({singleApp})  => {
 
 
     return (
-        <Link to={/about/${id}}>
+        <Link to={`/about/${id}`}>
        <div className="card bg-base-100 w-96 shadow-sm p-6">
   <figure>
     <img
