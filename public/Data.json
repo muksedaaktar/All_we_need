@@ -1,0 +1,326 @@
+[
+
+  {
+    "image": "https://media.istockphoto.com/id/503803495/photo/pictures-of-holiday.jpg?s=612x612&w=0&k=20&c=TAfZnNq0HYYpX53wnX58nTjGk6EeiwHWsTtWnbVf2cg=",
+    "title": "SnapPic Editor",
+    "companyName": "PixelSoft",
+    "id": 1,
+    "description": "A powerful photo editor with filters and AI enhancements.",
+    "size": 48,
+    "reviews": 12400,
+    "ratingAvg": 5,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 6600 }
+    ]
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1677341558055-832134a85ad6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8VGFza0Zsb3d8ZW58MHx8MHx8fDA%3D",
+    "title": "TaskFlow Pro",
+    "companyName": "Flowbit",
+    "id": 2,
+    "description": "Organize tasks, manage projects, and boost productivity.",
+    "size": 32,
+    "reviews": 9800,
+    "ratingAvg": 5,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://media.istockphoto.com/id/1406148993/photo/smiling-young-black-man-enjoying-sport-with-friends-in-nature.webp?a=1&b=1&s=612x612&w=0&k=20&c=xN2s4uDSWTb6srhqs9CPcxchNCQyhMBmVx6zmueiaqA=",
+    "title": "FitTrack",
+    "companyName": "HealthWave",
+    "id": 3,
+    "description": "Monitor your workouts, calories, and daily goals.",
+    "size": 55,
+    "reviews": 21000,
+    "ratingAvg": 5,
+    "downloads":6,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 13500 }
+    ]
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1731612462772-0c7fa0377ccb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fE11c2ljQ2xvdWR8ZW58MHx8MHx8fDA%3D",
+    "title": "MusicCloud",
+    "companyName": "SonicLab",
+    "id": 4,
+    "description": "Stream millions of songs ad-free with high audio quality.",
+    "size": 78,
+    "reviews": 54000,
+    "ratingAvg": 5,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 1800 },
+      { "name": "2 star", "count": 2600 },
+      { "name": "3 star", "count": 5200 },
+      { "name": "4 star", "count": 14000 },
+      { "name": "5 star", "count": 30400 }
+    ]
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1674635307169-6a72795f383d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fFF1aWNrUGF5JTIwV2FsbGV0fGVufDB8fDB8fHww",
+    "title": "QuickPay Wallet",
+    "companyName": "FinPay Ltd",
+    "id": 5,
+    "description": "Secure mobile wallet for payments, transfers, and bills.",
+    "size": 40,
+    "reviews": 32000,
+    "ratingAvg": 5,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 2200 },
+      { "name": "2 star", "count": 3100 },
+      { "name": "3 star", "count": 5200 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 12500 }
+    ]
+  },
+  {
+    "image": "https://media.istockphoto.com/id/1979289147/photo/data-analysis-science-and-big-data-with-ai-technology-analyst-or-scientist-uses-a-computer.webp?a=1&b=1&s=612x612&w=0&k=20&c=IIZaVsQl6mMcOPgyPrVm8ZlCSBwKdwWju4TTnM7BM4Q=",
+    "title": "LearnIT",
+    "companyName": "EduPro",
+    "id": 6,
+    "description": "Online courses and skill development made easy.",
+    "size": 65,
+    "reviews": 27000,
+    "ratingAvg": 5,
+    "downloads": 11,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1900 },
+      { "name": "4 star", "count": 6200 },
+      { "name": "5 star", "count": 17700 }
+    ]
+  },
+  {"image": "https://plus.unsplash.com/premium_photo-1684772692884-9094d7ba083f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fG5vdGV8ZW58MHx8MHx8fDA%3D",
+    "title": "NoteMaster",
+    "companyName": "SyncSoft",
+    "id": 7,
+    "description": "A clean and simple note-taking app with cloud sync.",
+    "size": 29,
+    "reviews": 8400,
+    "ratingAvg": 5,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 3700 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1623780042170-08a49290b2a8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dHJhdmVsJTIwZ298ZW58MHx8MHx8fDA%3D",
+    "title": "TravelGo",
+    "companyName": "FlyTech",
+    "id": 8,
+    "description": "Book flights, hotels, and manage your travel instantly.",
+    "size": 72,
+    "reviews": 5,
+    "ratingAvg": 5,
+    "downloads": 13,
+    "ratings": [
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 2600 },
+      { "name": "3 star", "count": 4200 },
+      { "name": "4 star", "count": 5200 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://media.istockphoto.com/id/1848935599/photo/happy-young-asian-woman-practicing-yoga-and-meditation-at-home-sitting-on-floor-in-living.webp?a=1&b=1&s=612x612&w=0&k=20&c=lY2qF8cfgke6JWufmSagy5oIHWajA5iWWbaPohggaa8=",
+    "title": "MindRelax",
+    "companyName": "CalmSphere",
+    "id": 9,
+    "description": "Meditation, sleep sounds, and relaxation exercises.",
+    "size": 50,
+    "reviews": 15000,
+    "ratingAvg": 5,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 10800 }
+    ]
+  },
+  {"image":"https://plus.unsplash.com/premium_photo-1719017469789-c0177df3d954?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z2FtZWJveHxlbnwwfHwwfHx8MA%3D%3D",
+    "title": "GameBox Arcade",
+    "companyName": "PlayVerse",
+    "id": 10,
+    "description": "A collection of mini-games for fun and challenges.",
+    "size": 95,
+    "reviews": 45000,
+    "ratingAvg": 5,
+    "downloads": 14,
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 7500 },
+      { "name": "3 star", "count": 11000 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 10500 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1705077296278-d82dd5c8662f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2VhdGhlciUyMGFwcHxlbnwwfHwwfHx8MA%3D%3D",
+    "title": "WeatherLive",
+    "companyName": "StormTech",
+    "id": 11,
+    "description": "Accurate weather forecasts and live radar updates.",
+    "size": 44,
+    "reviews": 12000,
+    "ratingAvg": 5,
+    "downloads": 23,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 4700 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1614442042855-e17d53875286?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZGllc3xlbnwwfHwwfHx8MA%3D%3D",
+    "title": "Foodiez",
+    "companyName": "EatHub",
+    "id": 12,
+    "description": "Order food from nearby restaurants with fast delivery.",
+    "size": 63,
+    "reviews": 38000,
+    "ratingAvg":5,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 2400 },
+      { "name": "2 star", "count": 3200 },
+      { "name": "3 star", "count": 4800 },
+      { "name": "4 star", "count": 12800 },
+      { "name": "5 star", "count": 14800 }
+    ]
+  },
+  {"image": "https://images.unsplash.com/photo-1673515336170-3bf951ddb5a8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGFuZ3VhZ2VidWRkeXxlbnwwfHwwfHx8MA%3D%3D",
+    "title": "LanguageBuddy",
+    "companyName": "LinguaTech",
+    "id": 13,
+    "description": "Learn languages interactively with AI assistance.",
+    "size": 58,
+    "reviews": 26000,
+    "ratingAvg": 5,
+    "downloads": 13,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 7200 },
+      { "name": "5 star", "count": 14400 }
+    ]
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1700830328177-0019f0adcba5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2VjdXJlJTIwdmF1bHR8ZW58MHx8MHx8fDA%3D",
+    "title": "SecureVault",
+    "companyName": "CyberGuard",
+    "id": 14,
+    "description": "Store files, passwords, and documents securely.",
+    "size": 38,
+    "reviews": 14000,
+    "ratingAvg":5,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1700 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 7100 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1572441562604-134ff1a7cbb6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dXJiYW4lMjBtb3ZlfGVufDB8fDB8fHww",
+    "title": "RideNow",
+    "companyName": "UrbanMove",
+    "id": 15,
+    "description": "Book rides instantly with nearby drivers.",
+    "size": 54,
+    "reviews": 56000,
+    "ratingAvg": 5,
+    "downloads": 18,
+    "ratings": [
+      { "name": "1 star", "count": 9000 },
+      { "name": "2 star", "count": 11000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 14000 },
+      { "name": "5 star", "count": 14000 }
+    ]
+  },
+  {
+    "image": "https://media.istockphoto.com/id/1295749491/photo/black-woman-browsing-online-make-up-store.webp?a=1&b=1&s=612x612&w=0&k=20&c=14darY_YHTVCR34EdO495IdgzVeo4VkPaC8Sk6zmZDU=",
+    "title": "ShopPlus",
+    "companyName": "MarketWave",
+    "id": 16,
+    "description": "Online shopping with exclusive daily deals.",
+    "size": 70,
+    "reviews": 43000,
+    "ratingAvg":5,
+    "downloads": 17,
+    "ratings": [
+      { "name": "1 star", "count": 3400 },
+      { "name": "2 star", "count": 4200 },
+      { "name": "3 star", "count": 7100 },
+      { "name": "4 star", "count": 13000 },
+      { "name": "5 star", "count": 15500 }
+    ]
+  },
+  {
+    "image": "https://media.istockphoto.com/id/2169109477/photo/mom-driving-son-to-school-in-car-for-back-to-school-season.webp?a=1&b=1&s=612x612&w=0&k=20&c=rqn0nshNAp9Rrha0NM2wMAFdORUxzd4p3w6JpupaKSU=",
+    "title": "DriveSafe",
+    "companyName": "AutoGuard",
+    "id": 17,
+    "description": "Track your driving habits and improve road safety.",
+    "size": 46,
+    "reviews": 11000,
+    "ratingAvg":5,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1700 },
+      { "name": "4 star", "count": 3300 },
+      { "name": "5 star", "count": 4400 }
+    ]
+  },
+ 
+  
+  {
+    "image": "https://images.unsplash.com/photo-1740477959006-798042a324aa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q3J5cHRvVmF1bHR8ZW58MHx8MHx8fDA%3D",
+    "title": "CryptoVault",
+    "companyName": "BlockTech",
+    "id": 18,
+    "description": "Manage and track your cryptocurrencies securely.",
+    "size": 52,
+    "reviews": 22000,
+    "ratingAvg": 5,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 1600 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 6500 },
+      { "name": "5 star", "count": 8400 }
+    ]
+  }
+]
