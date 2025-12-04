@@ -60,7 +60,7 @@ const handleUninstall = (id) => {
     return (
         <div>
            <div>
-          <h1 className="text-3xl text-center p-2 text-black font-bold"> Your Installed Apps</h1>
+          <h1 className="text-3xl text-center p-2 text-black font-bold"> My Installed Apps</h1>
           <p className="text-center p-4">Explore All Trending Apps on the Market developed by us</p>
          </div>
 
